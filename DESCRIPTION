@@ -1,0 +1,15 @@
+Package: BootstrapHauls
+Title: Bootstrap and randomization of multi-haul catch data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com")
+Description: Double (between and within hauls) bootstrap and randomization of multi-haul catch data
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    data.table
+RoxygenNote: 6.1.1
